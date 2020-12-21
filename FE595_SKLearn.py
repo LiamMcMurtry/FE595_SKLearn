@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+# Liam McMurtry
+# FE595
 # coding: utf-8
 
 # In[41]:
